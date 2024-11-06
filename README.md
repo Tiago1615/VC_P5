@@ -60,7 +60,7 @@ El flujo de procesamiento de cada fotograma es el siguiente:
       - Si la emoción no es "enfado", se aplica solo el cabello de "Goku" sin aura.
   - Grabación y Visualización: Se guardan los fotogramas procesados en un archivo de video y se muestran en pantalla en tiempo real.
 
-#### Resultado
+## Resultado
 
 A continuación se muestra el *gif* obtenido al realizar la conversión del vídeo volcado a disco:
 
