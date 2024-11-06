@@ -46,7 +46,7 @@ Este proyecto consiste en un filtro de video en tiempo real que detecta rostros 
 - **Animación Dinámica:** El aura y el cabello cambian en función de un contador de fotogramas, simulando diferentes transformaciones de poder.
 - **Grabación de Video:** El video con efectos se graba en un archivo de salida en formato MP4.
 
-#### Procedimiento
+## Procedimiento
 
 El flujo de procesamiento de cada fotograma es el siguiente:
 
