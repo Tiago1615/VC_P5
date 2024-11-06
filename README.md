@@ -73,7 +73,7 @@ A continuación se muestra el *gif* obtenido al realizar la conversión del víd
 - [Guión de la práctica](https://github.com/otsedom/otsedom.github.io/tree/main/VC/P5)
 - [Documentación OpenCV](https://docs.opencv.org/4.x/)
 - [Documentación Deepface](https://pypi.org/project/deepface/)
-- [Herramienta para la conversión a *gif*](https://www.jaided.ai/easyocr/documentation/)
+- [Herramienta para la conversión a *gif*](https://www.adobe.com/es/express/feature/video/convert/mp4-to-gif)
 
 ---
 
