@@ -66,6 +66,8 @@ A continuación se muestra el *gif* obtenido al realizar la conversión del víd
 
 ![Resultado Filtro](kakaroto.gif)
 
+[Link al *gif*](https://drive.google.com/file/d/1Vl05hoIcdf9f0qkLadaQWQbRdqwIrZA4/view?usp=sharing)
+
 ---
 
 ## Referencias Bibliográficas
