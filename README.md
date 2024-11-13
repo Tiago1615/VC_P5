@@ -48,6 +48,7 @@ Este proyecto consiste en un filtro de video en tiempo real que detecta rostros 
 
 ## Procedimiento
 
+Externamente al código, editamos las distintas fases de color de las transformaciones de la serie (God, Blue e Instinct), utilizando como base la imagen de "saiyan-hair.png" y el archivo "aura.gif".
 El flujo de procesamiento de cada fotograma es el siguiente:
 
 - Captura de Fotogramas: Se capturan fotogramas en tiempo real desde la cámara.
